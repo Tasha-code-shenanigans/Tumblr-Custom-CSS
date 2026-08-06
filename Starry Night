@@ -1,0 +1,64 @@
+/*Starry Night Mode*/
+:root {
+  --white-on-dark: #FAEBD8;
+  --font-family: "Calluna Sans", "Book Antiqua", Palatino, serif;
+  --chrome: #201B44;
+  --content-panel: #201B44;
+  --content-fg: #A68A72;
+  --content-fg-secondary: #FAEBD8;
+  --chrome-fg-secondary: #FAEBD8;
+  --chrome-ui: #A68A72;
+  --chrome-ui-pressed: #F5DEB3;
+  --accent: #A68A72;
+  --accent-tint-heavy: #F5DEB3;
+  --content-ui: #A68A72;
+  --chrome-ui-hover: #F1D6BE;
+  --content-ui-hover: #F1D6BE;
+  --content-purple: #423154;
+  --brand-purple-tint-strong: #E1C7F0;
+  --brand-red: #A68A72;
+  --brand-red-pressed: #F5DEB3;
+  --brand-red-pressed: #F5DEB3;
+  --brand-orange: #A68A72;
+  --brand-green: #A68A72;
+  --brand-green-pressed: #F5DEB3;
+  --brand-green-hover: #F5DEB3;
+  --brand-blue: #A68A72;
+  --brand-blue-pressed: #F5DEB3;
+  --brand-blue-hover: #F5DEB3;
+  --brand-purple: #A68A72;
+  --brand-pink: #A68A72;
+} 
+
+.SbeG8.Mk7yS svg use {
+  --icon-color-primary: #F5DEB3;
+}
+
+.uOpMe > a:nth-child(1) > img:nth-child(1) {
+display: none;
+}
+
+.wttFd svg {
+ --black: 245 222 179;
+ --red: 245 222 179;
+ --green: 245 222 179;
+ --blue: 245 222 179;
+ --pink: 245 222 179;
+ --purple: 245 222 179;
+ --orange: 245 222 179;
+}
+
+#managed-icon__logo-tumblr > path {
+--icon-color-primary: #F5DEB3;
+}
+
+/*Star bg*/
+.D5eCV {
+  background: var(--chrome);
+  background-image: url("https://i.postimg.cc/23RkR5q9/Untitled327-20260806154439.png");
+  background-blend-mode: hard-light;
+  background-size: 100% auto;
+  width: 100%;
+  min-height: 100vh;
+}
+
