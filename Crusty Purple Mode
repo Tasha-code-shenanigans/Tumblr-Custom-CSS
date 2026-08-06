@@ -1,0 +1,31 @@
+/*Ao3 bg*/
+/*.D5eCV {
+  background: var(--chrome);
+  background-image: url("https://i.postimg.cc/xdZ2zwrG/ao3siteskinbg.png");
+  background-blend-mode: soft-light;
+  background-size: 12em;
+  width: 100%;
+  min-height: 100vh;
+}*/
+
+/*Purple Mode*/
+:root {
+  --white-on-dark: 200, 200, 200;
+  --font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --chrome: #220E37;
+--chrome-ui: #B592D8;
+--accent: #B592D8;
+--content-ui: #B592D8;
+--chrome-ui-hover: #D7BEF0;
+--content-ui-hover: #D7BEF0;
+--content-purple: #423154;
+--brand-purple-tint-strong: #E1C7F0;
+--unread-tint: #423154;
+--unread-tint-hover: #423154;
+--brand-red: #B592D8;
+--brand-orange: #B592D8;
+--brand-green: #B592D8;
+--brand-blue: #B592D8;
+--brand-purple: #B592D8;
+--brand-pink: #B592D8;
+} 
