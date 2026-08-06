@@ -4,7 +4,7 @@
   --font-family: "Calluna Sans", "Book Antiqua", Palatino, serif;
   --chrome: #38220E;
   --chrome-panel: #38220E;
-  --content-panel: #2B1402;
+  --modal: #38220E;
   --content-fg: #A68A72;
   --content-fg-secondary: #FAEBD8;
   --chrome-fg-secondary: #FAEBD8;
