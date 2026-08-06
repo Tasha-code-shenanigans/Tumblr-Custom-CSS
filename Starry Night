@@ -5,6 +5,7 @@
   --chrome: #201B44;
   --chrome-panel: #201B44;
   --content-panel: #201B44;
+  --modal: #201B44;
   --content-fg: #A68A72;
   --content-fg-secondary: #FAEBD8;
   --chrome-fg-secondary: #FAEBD8;
