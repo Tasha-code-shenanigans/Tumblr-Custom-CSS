@@ -9,6 +9,8 @@
   --content-fg: #D4AD90;
   --content-fg-secondary: #FAEBD8;
   --chrome-fg-secondary: #FAEBD8;
+  --content-fg-tertiary: #C39F97;
+  --chrome-fg-tertiary: #C39F97;
   --chrome-ui: #D4AD90;
   --chrome-ui-pressed: #F5DEB3;
   --accent: #D4AD90;
