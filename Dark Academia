@@ -3,6 +3,7 @@
   --white-on-dark: #FAEBD8;
   --font-family: "Calluna Sans", "Book Antiqua", Palatino, serif;
   --chrome: #38220E;
+  --chrome-panel: #38220E;
   --content-panel: #2B1402;
   --content-fg: #A68A72;
   --content-fg-secondary: #FAEBD8;
