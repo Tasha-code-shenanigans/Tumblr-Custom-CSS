@@ -1,7 +1,7 @@
 /*Burgundy Flower Mode*/
 :root {
   --white-on-dark: #FAEBD8;
-  --font-family: "Calluna Sans", "Book Antiqua", Palatino, serif;
+  --font-family: "Caslon FS", "Book Antiqua", Palatino, serif;
   --chrome: #5E3935;
   --chrome-panel: #5E3935;
   --content-panel: #664242;
