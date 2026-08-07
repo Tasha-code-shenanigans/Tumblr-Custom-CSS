@@ -1,5 +1,73 @@
 /*Starry Night Mode*/
 :root {
+
+  /*Here you add your own color variables*/
+  --themebgdark: #201B44;
+  --themebglight: #201B44;
+  --themeprimarytext: #A68A72;
+  --themesecondarytext: #FAEBD8;
+  --themeiconcolor: 245 222 179; /*this one needs to be in RGB*/
+  --themetint: #E1C7F0;
+  
+  --font-family: "Caslon FS", "Book Antiqua", Palatino, serif;
+
+  /*you can leave everything after this alone*/
+  --chrome: var(--themebgdark);
+  --chrome-panel: var(--themebgdark);
+  --modal: var(--themebgdark);
+  --content-panel: var(--themebglight);
+  --content-fg: var(--themeprimarytext);
+  --chrome-fg: var(--themeprimarytext);
+  --content-fg-secondary: var(--themeprimarytext);
+  --chrome-fg-secondary: var(--themeprimarytext);
+  --content-fg-tertiary: var(--themesecondarytext);
+  --chrome-fg-tertiary: var(--themesecondarytext);
+  --chrome-ui: var(--themeprimarytext);
+  --chrome-ui-pressed: var(--themeprimarytext);
+  --accent: var(--themeprimarytext);
+  --accent-tint-heavy: var(--themeprimarytext);
+  --content-ui: var(--themeprimarytext);
+  --chrome-ui-hover: var(--themeprimarytext);
+  --content-ui-hover: var(--themeprimarytext);
+  --brand-purple-tint-strong: var(--themetint);
+  --brand-red: var(--themeprimarytext);
+  --brand-red-pressed: var(--themeprimarytext);
+  --brand-red-pressed: var(--themeprimarytext);
+  --brand-orange: var(--themeprimarytext);
+  --brand-green: var(--themeprimarytext);
+  --brand-green-pressed: var(--themeprimarytext);
+  --brand-green-hover: var(--themeprimarytext);
+  --brand-blue: var(--themeprimarytext);
+  --brand-blue-pressed: var(--themeprimarytext);
+  --brand-blue-hover: var(--themeprimarytext);
+  --brand-purple: var(--themeprimarytext);
+  --brand-pink: var(--themeprimarytext);
+} 
+
+.SbeG8.Mk7yS svg use {
+  --icon-color-primary: var(--themeprimarytext);
+}
+
+.uOpMe > a:nth-child(1) > img:nth-child(1) {
+display: none;
+}
+
+.wttFd svg , .ADK9v svg , .EvhBA svg {
+ --black: var(--themeiconcolor);
+ --red: var(--themeiconcolor);
+ --yellow: var(--themeiconcolor);
+ --green: var(--themeiconcolor);
+ --blue: var(--themeiconcolor);
+ --pink: var(--themeiconcolor);
+ --purple: var(--themeiconcolor);
+ --orange: var(--themeiconcolor);
+}
+
+#managed-icon__logo-tumblr > path {
+--icon-color-primary: var(--themeprimarytext);
+}
+
+:root {
   --white-on-dark: #FAEBD8;
   --font-family: "Calluna Sans", "Book Antiqua", Palatino, serif;
   --chrome: #201B44;
