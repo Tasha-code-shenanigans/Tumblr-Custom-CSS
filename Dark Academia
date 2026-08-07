@@ -2,10 +2,10 @@
 :root {
 
   /*Here you add your own color variables*/
-  --themebgdark: #38220E;
-  --themebglight: #A68A72;
-  --themeprimarytext: #FAEBD8;
-  --themesecondarytext: #A68A72;
+  --themebgdark: #311E16;
+  --themebglight: #4A332A;
+  --themeprimarytext: #A68A72;
+  --themesecondarytext: #FAEBD8;
   --themeiconcolor: 245 222 179; /*this one needs to be in RGB*/
   --themetint: #F5DEB3;
   
