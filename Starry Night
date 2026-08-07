@@ -26,6 +26,7 @@
   --chrome-ui-pressed: var(--themeprimarytext);
   --accent: var(--themeprimarytext);
   --accent-tint-heavy: var(--themeprimarytext);
+  --deprecated-accent: var(--themeiconcolor);
   --content-ui: var(--themeprimarytext);
   --chrome-ui-hover: var(--themeprimarytext);
   --content-ui-hover: var(--themeprimarytext);
