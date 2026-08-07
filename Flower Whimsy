@@ -6,6 +6,7 @@
   --themebglight: #664242;
   --themeprimarytext: #D4AD90;
   --themesecondarytext: #C39F97;
+  --themetertiarytext: #E9D3CE;
   --themeiconcolor: 245 222 179; /*this one needs to be in RGB*/
   --themetint: #E1C7F0;
   
@@ -18,10 +19,10 @@
   --content-panel: var(--themebglight);
   --content-fg: var(--themeprimarytext);
   --chrome-fg: var(--themeprimarytext);
-  --content-fg-secondary: var(--themeprimarytext);
-  --chrome-fg-secondary: var(--themeprimarytext);
-  --content-fg-tertiary: var(--themesecondarytext);
-  --chrome-fg-tertiary: var(--themesecondarytext);
+  --content-fg-secondary: var(--themesecondarytext);
+  --chrome-fg-secondary: var(--themesecondarytext);
+  --content-fg-tertiary: var(--themetertiarytext);
+  --chrome-fg-tertiary: var(--themetertiarytext);
   --chrome-ui: var(--themeprimarytext);
   --chrome-ui-pressed: var(--themeprimarytext);
   --accent: var(--themeprimarytext);
