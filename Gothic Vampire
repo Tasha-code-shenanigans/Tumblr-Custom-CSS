@@ -7,7 +7,7 @@
   --themeprimarytext: #B47F79;
   --themesecondarytext: #C39F97;
   --themeiconcolor: 91 55 51; /*this one needs to be in RGB*/
-  --themetint: #E1C7F0;
+  --themetint: #54111E;
   
   --font-family: "Caslon FS", "Book Antiqua", Palatino, serif;
 
@@ -26,6 +26,7 @@
   --chrome-ui-pressed: var(--themeprimarytext);
   --accent: var(--themeprimarytext);
   --accent-tint-heavy: var(--themeprimarytext);
+  --deprecated-accent: var(--themeprimarytext);
   --content-ui: var(--themeprimarytext);
   --chrome-ui-hover: var(--themeprimarytext);
   --content-ui-hover: var(--themeprimarytext);
