@@ -39,9 +39,10 @@
 display: none;
 }
 
-.wttFd svg {
+.wttFd svg , .ADK9v svg , .EvhBA svg{
  --black: 245 222 179;
  --red: 245 222 179;
+ --yellow: 245 222 179;
  --green: 245 222 179;
  --blue: 245 222 179;
  --pink: 245 222 179;
