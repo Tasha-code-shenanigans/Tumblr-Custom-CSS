@@ -5,8 +5,8 @@
   --themebgdark: #1D0502;
   --themebglight: #3A120C;
   --themeprimarytext: #B47F79;
-  --themesecondarytext: #C39F97;
-  --themetertiarytext: #E9D3CE;
+  --themesecondarytext: #E9D3CE;
+  --themetertiarytext: #C39F97;
   --themeiconcolor: 91 55 51; /*this one needs to be in RGB*/
   --themetint: #54111E;
   
