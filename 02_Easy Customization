@@ -89,3 +89,18 @@ display: none;
 #managed-icon__logo-tumblr > path {
 --icon-color-primary: var(--themeprimarytext);
 }
+
+.gPQR5.FGfuE .lSyOz {
+  border: none;
+}
+
+._QSie {
+  background-color: var(--chrome);
+}
+
+.k31gt.ljmFj {
+  border-left: 3px dotted var(--content-tint-heavy); }
+
+.u2tXn {
+  border-top: 5px double var(--themesecondarytext);
+}
